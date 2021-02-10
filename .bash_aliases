@@ -1,3 +1,4 @@
+alias ecme="ssh -i ~/.ssh/bigdata-feb2021.pem ubuntu@ec2-54-218-221-205.us-west-2.compute.amazonaws.com";
 alias exp="explorer.exe";
 alias bee="beeline -u jdbc:hive2://";
 alias derbyinit="schematool -dbType derby -initSchema";
@@ -101,7 +102,6 @@ alias rev="cd /mnt/c/Users/Hayden/mega/revature && l"
 alias z="cd /mnt/c/Users/Hayden/mega/revature/projects/zero/zero && l"
 alias revt="cd /home/hayden/revature && l"
 alias rev="cd /home/hayden/revature && l"
-alias p="cd /home/hayden/revature/projects && l"
 alias pj="cd /home/hayden/revature/projects && l"
 alias z="cd /home/hayden/revature/projects/zero/zero && l"
 alias z="cd /home/hayden/revature/projects/zero/pingbot && l"
@@ -115,3 +115,4 @@ alias bd="cd /home/hayden/revature/210104-usf-bigdata && l"
 alias 1d="cd /home/hayden/revature/projects/one/data && l"
 alias 1="cd /home/hayden/revature/projects/one/wiki-analytics && l"
 alias sb="cd /home/hayden/sandbox && l"
+alias 2="cd /home/hayden/revature/projects/two && l"
